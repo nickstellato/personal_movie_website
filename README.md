@@ -1,1 +1,0 @@
-This is a website written in python that lists movies, shows their poster image and then plays their trailer from youtube.com when they are clicked.

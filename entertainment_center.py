@@ -31,5 +31,6 @@ social_network = media.Movie("The Social Network",
                              "http://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Social_network_film_poster.jpg/220px-Social_network_film_poster.jpg",
                              "https://www.youtube.com/watch?v=lB95KLmpLR4")
 
-movies = [the_dude, pulp_fiction, bourne_identity, thomas_crown, oceans_twelve, social_network]
-fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.__module__)
+print(media.Movie.__name__)
+print(media.Movie.__doc__)
